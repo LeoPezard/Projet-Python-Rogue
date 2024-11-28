@@ -1,0 +1,3 @@
+Création d'un jeu type Rogue en python avec interface graphique Tkinter.
+  J'ai choisi les personnéges et le décor de Mario pour effectuer ce projet.
+  Le personnage peux se déplacer sur la carte, récolter des objets et affronter des ennemis.
